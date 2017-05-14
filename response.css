@@ -1,0 +1,26 @@
+@media screen and (min-width: 660px) {
+    #section1 {
+        float: left;
+        width: 50%;
+    }
+
+    #section2 {
+        float: right;
+        width: 40%;
+    }
+
+    #picture li {
+        width: 25%;
+    }
+
+    #AboutPicture {
+        float: left;
+        width: 40%;
+    }
+
+    #SectionPage {
+        float: right;
+        width: 40%;
+        padding: 50px;
+    }
+}
